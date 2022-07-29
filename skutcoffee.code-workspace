@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "skutcoffee",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "skutcoffee"
+  }
+}
